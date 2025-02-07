@@ -1,0 +1,28 @@
+### Tasks App ###
+The purpose of this app is a simple project designed to showcase my knowledge of python.
+I have chosen to create a task manager to help me keep track of the steps I am taking as I build up my portfolio of work.
+
+
+### Features ###
+- View task list
+- Edit status of task
+    - Open
+    - Blocked
+    - In progress
+    - Review
+    - Done
+- Create new task
+- Delete task
+
+
+### How to run - Using Bash ###
+1. Clone this repository:
+    git clone {URL}
+2. Navigate to App directory
+    cd task_app
+3. Run the script
+    python task_app.py
+
+
+### Requirements ###
+Python 3.x

@@ -3,5 +3,5 @@
 # Business Request - Mail from Steven: This is a email that outlines the requested dashboard
 # Request Attachement: This is the excel attchment from Steven that outlines the sales forecast for the project, as it is not in the database
 # Business Demand Overview - Project EPIC: This is a consolidated draft of all aspects that must be included to complete the project
-# SQL Statement: This is an the query that is run in PowerQuery to pull the data into PowerBI
+# SQL Code: This is the query that is run in PowerQuery to pull the data into PowerBI
 # Sales Overview - PowerBI: This is a PDF export of the finished dashboard fulfilling the Business Demand needs

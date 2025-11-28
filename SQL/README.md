@@ -4,13 +4,13 @@ This folder contains SQL code demonstrating my analytical and database managemen
 
 ## Projects Overview
 
-### ⚡ Comprehensive Sales Query
+### 📊 Comprehensive Sales Query
 **File**: `Sales_Report.sql`
 - Pulling all relevant data for comprehensive sales report creation via PowerQuery
 - Engineering of additional metrics
 - Complex CTEs and Joins
 
-### 📊 Lead Time Automation
+### ⚡ Lead Time Automation
 **File**: `Lead_Time_Automation.sql`
 - Stored Procedure designed to automate previously manual task
 - Window functions for running totals and rankings
